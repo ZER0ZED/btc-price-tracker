@@ -29,4 +29,4 @@ Follow these steps to set up the BTC Price Tracker on your local machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/btc-price-tracker.git
+   git clone https://github.com/ZER0ZED/btc-price-tracker.git
